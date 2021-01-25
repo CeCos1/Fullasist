@@ -1,0 +1,47 @@
+body{
+    background: lightgray;
+}
+
+#container{
+    margin: 0px auto;
+    border: 1px solid black;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    color: black;
+}
+
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 30px;
+    
+}
+
+.clearfix{
+    clear:both;
+}
+
+#content2{
+    float: left;
+    width: 80%;
+    margin: 10px;
+}
+
+aside{
+    float: left;
+    width: 20%;
+    margin: 10px;
+}
+
+footer{
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
